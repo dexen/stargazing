@@ -66,3 +66,9 @@
 ### Can you hear me now
 - program that takes any number of command line arguments
 - execs "git add" with the arguments
+
+### What happened
+- program that aborts on error or exception
+
+### What in the...?
+- program that crashes with `SIGSEGV` (Segmentation Violation, aka memory protection error)
