@@ -67,6 +67,11 @@
 - program that takes any number of command line arguments
 - execs "git add" with the arguments
 
+### Can I hear you now
+- program that takes any number of command line arguments
+- execs "git add" with the arguments
+- prints the time taken, in seconds, to complete execution of the "git add"
+
 ### What happened
 - program that aborts on error or exception
 
